@@ -1,5 +1,5 @@
 # ОШИБКА: отсутствует двоеточие после if
    def validate_kbk(self):
-       if not self.kbk.isdigit()
+       if not self.kbk.isdigit():
            return False
 
