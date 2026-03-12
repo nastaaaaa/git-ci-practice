@@ -1,4 +1,4 @@
-def validate_kbk(kbk):
-    if not kbk.isdigit()
-        return False
+def greet(name)
+return f"Hello, {name}!"
+   
     
