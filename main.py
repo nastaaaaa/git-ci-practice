@@ -1,4 +1,5 @@
-```python
-def greet(name):
-return f"Hello, {name}!"
-```
+# ОШИБКА: отсутствует двоеточие после if
+   def validate_kbk(self):
+       if not self.kbk.isdigit()
+           return False
+
